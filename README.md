@@ -1,6 +1,6 @@
 ### Olá! me chamo Isaac Abrahão!
--🖥️Estudante do SESI Paulista<br>
--🖥️Futuro Estudante de Ciência da Computação
+**-🖥️Estudante do SESI Paulista<br>**
+**-🖥️Futuro Estudante de Ciência da Computação**
 
 <div>
     <a href="https://github.com/isaacos777brh">
@@ -9,7 +9,6 @@
 
 
 ##
-### 💡Tecnologias
 <div style="display: inline_block"><br>
     <img align="center" alt="Isaac-HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" alt="Isaac-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
