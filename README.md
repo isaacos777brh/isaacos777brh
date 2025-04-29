@@ -4,7 +4,7 @@
 
 <div>
     <a href="https://github.com/isaacos777brh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacos777brh&layout=compact&langs_count+16&theme=dracula"/> [![Narutogif](https://i.gifer.com/origin/9d/9d036900febef8da5657c81a8984f2e5_w200.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2Fgifs%2Fnaruto&psig=AOvVaw27xs212FIWa5wuw-DvxP8t&ust=1745972006976000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiN_tv6-4wDFQAAAAAdAAAAABAE)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacos777brh&layout=compact&langs_count+16&theme=dracula"/> ![narutingif](https://i.gifer.com/origin/9d/9d036900febef8da5657c81a8984f2e5_w200.gif)
 </div>     
 
 
