@@ -6,9 +6,8 @@
     <a href="https://github.com/isaacos777brh">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacos777brh&layout=compact&langs_count+16&theme=dracula"/>
 </div>
-        
+💡Tecnologias        
 ##
--💡Tecnologias
 <div style="display: inline_block"><br>
     <img align="center" alt="Isaac-HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" alt="Isaac-CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
