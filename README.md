@@ -4,7 +4,7 @@
 
 <div>
     <a href="https://github.com/isaacos777brh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacos777brh&layout=compact&langs_count+16&theme=dracula"/> ![narutingif](https://i.gifer.com/origin/9d/9d036900febef8da5657c81a8984f2e5_w200.gif)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacos777brh&layout=compact&langs_count+16&theme=dracula"/> ![narutingif][(https://i.gifer.com/origin/9d/9d036900febef8da5657c81a8984f2e5_w200.gif)](https://i.gifer.com/YAS0.gif)
 </div>     
 
 
