@@ -8,7 +8,7 @@
 </div>     
         
 ##
-<div> text-align="center"
+<div> 
 💡Tecnologias
 </div>
 <div style="display: inline_block"><br>
