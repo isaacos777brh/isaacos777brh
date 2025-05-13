@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacos777brh&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isaacos777brh&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false" height="175" alt="languages graph"  />
 </div>
 
 ###
