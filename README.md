@@ -1,5 +1,6 @@
 <div>
-  <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/4e9a1514-e970-4e18-b97f-29ec642af16f" />
+  <img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/ea5f0539-e981-4216-85b2-f5f217e8d455" />
+
 </div>
 
 ### `Isaac Lima`
@@ -23,4 +24,4 @@ aprendizado, organização e resolução de problemas.
   <img src="https://skillicons.dev/icons?i=js,html,css">
 </div>
 
-System.out.println("Faça da sua vida mais responsiva.");
+
