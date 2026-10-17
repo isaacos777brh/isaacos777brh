@@ -23,4 +23,4 @@ aprendizado, organização e resolução de problemas.
   <img src="https://skillicons.dev/icons?i=js,html,css">
 </div>
 
-console.log('Olá, mundo!')
+System.out.println("Faça da sua vida mais responsiva.");
