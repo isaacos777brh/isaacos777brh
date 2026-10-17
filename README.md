@@ -22,3 +22,5 @@ aprendizado, organização e resolução de problemas.
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css">
 </div>
+
+console.log('Olá, mundo!')
